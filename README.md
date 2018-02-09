@@ -50,7 +50,7 @@ This framework needs a Virtual Environment (I used Elastic Beanstalk Virtual Dev
 
 ## Versioning
 
-This built is current on v0.3.x as of 10th November 2017
+This built is current on v1.0.x as of 3rd October 2017
 
 
 ## Authors
