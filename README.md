@@ -14,6 +14,7 @@ Please visit my [Blog](https://www.reversethatshell.com) for more information of
 - [Blog - ASEAN 100 Hackathon - Connected Smart Cities](https://www.reversethatshell.com)
 - [Source Code - Patient's Application](https://github.com/jinwei908/DrRoboPatientApp-public)
 - [Source Code - Doctor Robo Web Server](https://github.com/jinwei908/DrRoboWeb-public)
+- [Source Code - Doctor Robo Arduino](https://github.com/jinwei908/DrRoboSPEEEduino-public)
 
 ## Getting Started
 
